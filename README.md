@@ -1,4 +1,6 @@
 ## Hi there 👋
+my name is Panuruj
+you can call me Tor
 
 <!--
 **panurujz/panurujz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
